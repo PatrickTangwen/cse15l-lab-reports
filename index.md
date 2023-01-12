@@ -9,6 +9,8 @@ In this page,you will know how to install the VS Code, connect the remote server
 ![Image](https://ucsd-cse15l-w23.github.io/images/vscode.png)
 
 ***Step 2 (Remotely Connecting)***
+* In your VScode, open the terminal by clicking the **Terminal** → **New Terminal**
+You should be able to see the terminal windows like this:
 
 
 

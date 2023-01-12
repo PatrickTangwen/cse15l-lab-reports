@@ -11,6 +11,7 @@ In this page,you will know how to install the VS Code, connect the remote server
 ***Step 2 (Remotely Connecting)***
 * In your VScode, open the terminal by clicking the **Terminal** → **New Terminal**
 You should be able to see the terminal windows like this:
+![Image](https://github.com/PatrickTangwen/cse15l-lab-reports/blob/main/image.png)
 
 
 

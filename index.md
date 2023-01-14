@@ -61,7 +61,7 @@ Here are some commands you may try:
 
 ***Congratulations!*** 
 <br>
-You've completed the cse15l lab tutorial!
+You've completed the cse15l lab tutorial !
 
 
 

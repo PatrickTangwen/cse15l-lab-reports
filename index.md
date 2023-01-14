@@ -59,7 +59,8 @@ Here are some commands you may try:
 * `ls -lat`
 * `ls -a` 
 <br>
-***Congratulations!*** <br>
+***Congratulations!*** 
+<br>
 You've completed the cse15l lab tutorial!
 
 

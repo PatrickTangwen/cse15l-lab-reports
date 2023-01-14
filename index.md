@@ -8,7 +8,7 @@ In this page,you will know how to install the VS Code, connect the remote server
 * Click VScode website: [VScode](https://code.visualstudio.com/)
 * Follow the instructions on the website and download the VScode according to your operation system
 * When it is downloaded, open the VScode icon, you should be able to see a window like this:
-![Image](https://ucsd-cse15l-w23.github.io/images/vscode.png)
+![Image](https://raw.githubusercontent.com/PatrickTangwen/Markdown/main/images/WechatIMG145.png)
 
 ***Step 2 (Remotely Connecting)***
 * In your VScode, open the terminal by clicking the **Terminal** → **New Terminal**
@@ -52,9 +52,12 @@ When you see the interaction like this,congratulations! Your terminal is now con
 
 ***Step 3 (Trying Some Commands)***
 In this section, trying to type some commands on your terminal to see some interesting output.
-For example, when I run commands like `pwd`, I got the following:
+For example, when I run commands like `ls ~lat`, I got the following:
 ![terminal](https://raw.githubusercontent.com/PatrickTangwen/Markdown/main/images/image.png)
-
+Here are some commands you may try:
+* `cd`
+* `ls -lat`
+* `ls -a`
 
 
 

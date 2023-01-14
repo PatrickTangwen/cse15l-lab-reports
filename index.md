@@ -50,7 +50,7 @@ Fri Jan 13, 2023  8:02pm - Prepping cs15lwi23
 ```
 When you see the interaction like this,congratulations! Your terminal is now connected a computer in the CSE basement! In this context, your own computer is called *client* and the computer in the cse basement is called *server*.
 
-***Step 3 (Trying Some Commands)***
+***Step 3 (Trying Some Commands)*** <br>
 In this section, trying to type some commands on your terminal to see some interesting output.
 For example, when I run commands like `ls ~lat`, I got the following:
 ![terminal](https://raw.githubusercontent.com/PatrickTangwen/Markdown/main/images/WechatIMG143.png)
@@ -58,6 +58,8 @@ Here are some commands you may try:
 * `cd`
 * `ls -lat`
 * `ls -a`
+**Congratulations!** <br>
+You've completed the cse15l lab tutorial!
 
 
 

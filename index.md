@@ -53,7 +53,7 @@ When you see the interaction like this,congratulations! Your terminal is now con
 ***Step 3 (Trying Some Commands)***
 In this section, trying to type some commands on your terminal to see some interesting output.
 For example, when I run commands like `ls ~lat`, I got the following:
-![terminal](https://raw.githubusercontent.com/PatrickTangwen/Markdown/main/images/image.png)
+![terminal](https://raw.githubusercontent.com/PatrickTangwen/Markdown/main/images/WechatIMG143.png)
 Here are some commands you may try:
 * `cd`
 * `ls -lat`

@@ -13,7 +13,7 @@ In this page,you will know how to install the VS Code, connect the remote server
 ***Step 2 (Remotely Connecting)***
 * In your VScode, open the terminal by clicking the **Terminal** → **New Terminal**
 You should be able to see the terminal windows like this:
-![terminal](https://raw.githubusercontent.com/PatrickTangwen/Markdown/main/images/image.png)<br>
+![terminal](https://raw.githubusercontent.com/PatrickTangwen/Markdown/main/images/WechatIMG144.png)<br>
 
 If you are using Windows,you need to install `git` first. Here is the link: [git](https://gitforwindows.org/)<br>
 
@@ -31,7 +31,7 @@ RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 ```
 
-Go head and and type `yes` and then press enter.Then,the terminal will ask you to type your password.
+Go head and type `yes` and then press enter.Then,the terminal will ask you to type your password.
 Then,it will gives the response like this:
 ```
 Last login: Sat May 28 11:28:18 2022 from c-24-130-138-6.hsd1.ca.comcast.net
@@ -48,6 +48,14 @@ ieng6-203   20:00:01   3   0.00,  0.03,  0.08
  
 Fri Jan 13, 2023  8:02pm - Prepping cs15lwi23
 ```
+When you see the interaction like this,congratulations! Your terminal is now connected a computer in the CSE basement! In this context, your own computer is called *client* and the computer in the cse basement is called *server*.
+
+***Step 3 (Trying Some Commands)***
+In this section, trying to type some commands on your terminal to see some interesting output.
+For example, when I run commands like `pwd`, I got the following:
+![terminal](https://raw.githubusercontent.com/PatrickTangwen/Markdown/main/images/image.png)
+
+
 
 
 

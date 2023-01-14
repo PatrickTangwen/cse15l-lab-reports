@@ -29,7 +29,7 @@ If this is your first time to login the remote server, you will probably see the
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
-``` <br>
+```
 
 Go head and and type `yes` and then press enter.Then,the terminal will ask you to type your password.
 Then,it will gives the response like this:

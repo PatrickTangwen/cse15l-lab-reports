@@ -6,12 +6,12 @@ In this page,you will know how to install the VS Code, connect the remote server
 
 ***Step 1 (Installing VScode)***
 * Click VScode website: [VScode](https://code.visualstudio.com/)
-* Follow the instructions on the website and download the VScode according to your operation system
-* When it is downloaded, open the VScode icon, you should be able to see a window like this:
+* Please read the instructions on the website carefully and download the VScode according to your operation system
+* When it is downloaded, install the package and open the VScode icon, you should be able to see a VScode window like this:
 ![Image](https://raw.githubusercontent.com/PatrickTangwen/Markdown/main/images/WechatIMG145.png)
 
 ***Step 2 (Remotely Connecting)***
-* In your VScode, open the terminal by clicking the **Terminal** → **New Terminal**
+* In your VScode, open the terminal by clicking the **Terminal** → **New Terminal** (both button can found on the menu)
 You should be able to see the terminal windows like this:
 ![terminal](https://raw.githubusercontent.com/PatrickTangwen/Markdown/main/images/WechatIMG144.png)<br>
 
@@ -48,7 +48,7 @@ ieng6-203   20:00:01   3   0.00,  0.03,  0.08
  
 Fri Jan 13, 2023  8:02pm - Prepping cs15lwi23
 ```
-When you see the interaction like this,congratulations! Your terminal is now connected a computer in the CSE basement! In this context, your own computer is called *client* and the computer in the cse basement is called *server*.
+When you see the interaction like this, congratulations! Your terminal is now connected a computer in the CSE basement! In this context, your own computer is called *client* and the computer in the cse basement is called *server*.
 
 ***Step 3 (Trying Some Commands)*** <br>
 In this section, trying to type some commands on your terminal to see some interesting output.

@@ -32,8 +32,7 @@ RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
 ```
 
-Go head and type `yes` and then press enter.Then,the terminal will ask you to type your password.
-Then,it will gives the response like this:
+Go head,type `yes` in the terminal and then press enter.Then,the terminal will ask you to type your password by giving a password prompt.So,just type your password in the prompt. Then,it will gives the response like this:
 ```
 Last login: Sat May 28 11:28:18 2022 from c-24-130-138-6.hsd1.ca.comcast.net
 Hello cs15lwi23akw, you are currently logged into ieng6-201.ucsd.edu

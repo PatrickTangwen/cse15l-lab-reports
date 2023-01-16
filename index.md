@@ -21,7 +21,7 @@ If you are using Windows,you need to install `git` first. Here is the link: [git
 
 `$ ssh cs15lwi23zz@ieng6.ucsd.edu`<br>
 
-**NOTICE:** you should replace the `zz` by the letters from you own specific cse15l account.<br>
+**NOTICE:** To login with your own course specific accoutn, you should replace the `zz` by the letters from you own specific cse15l account.<br>
 
 If this is your first time to login the remote server, you will probably see the following responses from terminal:<br>
 ```

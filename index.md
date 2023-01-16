@@ -17,7 +17,7 @@ You should be able to see the terminal windows like this:
 
 If you are using Windows, you need to install `git` first. Here is the link: [git](https://gitforwindows.org/)<br>
 
-* In the terminal window:type the following<br>
+* In the terminal window: type the following<br>
 
 `$ ssh cs15lwi23zz@ieng6.ucsd.edu`<br>
 (don't include `$` in your terminal, it is just a symbol to imply that this is a command line) <br>

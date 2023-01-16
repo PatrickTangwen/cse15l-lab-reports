@@ -11,7 +11,7 @@ In this page,you will know how to install the VS Code, connect the remote server
 ![Image](https://raw.githubusercontent.com/PatrickTangwen/Markdown/main/images/WechatIMG145.png)
 
 ***Step 2 (Remotely Connecting)***
-* In your VScode, open the terminal by clicking the **Terminal** → **New Terminal** (both button can found on the menu)
+* In your VScode, open the terminal by clicking the **Terminal** → **New Terminal** (both button can found on the menu)<br>
 You should be able to see the terminal windows like this:
 ![terminal](https://raw.githubusercontent.com/PatrickTangwen/Markdown/main/images/WechatIMG144.png)<br>
 

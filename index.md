@@ -73,7 +73,7 @@ When I typed command `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`, it gave
 [cs15lwi23akw@ieng6-201]:~:37$ cat /home/linux/ieng6/cs15lwi23/public/hello.txt
 Hello! Welcome to CSE 15L
 ```
-From above, `cat` will print the content of given paths. Here, the path refers to /home/linux/ieng6/cs15lwi23/public/
+From above, `cat` will print the content of given paths. Here, the path refers to `/home/linux/ieng6/cs15lwi23/public/`
 
 
 

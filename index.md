@@ -54,10 +54,28 @@ When you see the interaction like this, congratulations! Your terminal is now co
 In this section, trying to type some commands on your terminal to see some interesting output.
 For example, when I run commands like `ls ~lat`, I got the following:
 ![terminal](https://raw.githubusercontent.com/PatrickTangwen/Markdown/main/images/WechatIMG143.png)
+<br>
 Here are some commands you may try:
-* `cd`
-* `ls -lat`
-* `ls -a` 
+* `pwd`
+* `cat /home/linux/ieng6/cs15lwi23/public/hello.txt` 
+
+When I typed command like `pwd`, it gave the following:
+
+```
+[cs15lwi23akw@ieng6-201]:~:32$ pwd
+/home/linux/ieng6/cs15lwi23/cs15lwi23akw
+```
+
+From above, `pwd` tells me which directory I'm currently working with. It helps me to know the path. <br>
+
+When I typed command `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`, it gave the following:
+```
+[cs15lwi23akw@ieng6-201]:~:37$ cat /home/linux/ieng6/cs15lwi23/public/hello.txt
+Hello! Welcome to CSE 15L
+```
+From above, `cat` will print the content of given paths. Here, the path refers to /home/linux/ieng6/cs15lwi23/public/
+
+
 
 ***Congratulations!*** 
 <br>

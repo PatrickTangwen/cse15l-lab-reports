@@ -74,7 +74,8 @@ When I typed command `cat /home/linux/ieng6/cs15lwi23/public/hello.txt`, it gave
 Hello! Welcome to CSE 15L
 ```
 From above, `cat` will print the content of given paths. Here, the path refers to `/home/linux/ieng6/cs15lwi23/public/`<br>
-The content in `hello.txt` is the "Hello! Welcome to CSE 15L".
+The content in `hello.txt` is the "Hello! Welcome to CSE 15L".<br>
+Thus,if you want to print the content of a file, just use `cat` + your file path. 
 
 
 
